@@ -18,4 +18,5 @@
     "enabled": true,
     "DefaultPass": "Password auto auth",
     "randomPasswords": true 
+  }
 }
