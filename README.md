@@ -11,7 +11,6 @@ Bot Minecraft canggih yang dibangun dengan Mineflayer, dilengkapi antarmuka web 
 
 ## Prasyarat
 - Node.js (versi 14 atau lebih tinggi)
-- Akun Minecraft
 - Server Minecraft yang berjalan
 
 ## Instalasi
