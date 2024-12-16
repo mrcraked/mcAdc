@@ -57,7 +57,8 @@ function createBot(config) {
 
   bot.on("spawn", async () => {
     logger.info("Bot has spawned");
-  
+    bot.chat('/tellraw @a ["",{"text":"[mcAdc]","color":"dark_red"},{"text":" Hallo Gw adalah Bot minecraft.","color":"yellow"},{"text":" "},{"text":"[klik disini]","color":"aqua","clickEvent":{"action":"open_url","value":"https://github.com/mrcraked?tab=repositories"}},{"text":" untuk mencoba"}]')
+    bot.chat('Gw di buat oleh EFRIGUS')
     if (config.Auto_auth.enabled) {
       const host = config.minecraftServer.host;
       let password = null;
