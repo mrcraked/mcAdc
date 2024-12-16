@@ -2,7 +2,6 @@
     "minecraftServer": {
       "host": "Ip Server",
       "port": 25565
-  
     },
     "bot": {
       "username": "Username bot",
