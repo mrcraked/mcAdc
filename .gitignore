@@ -1,4 +1,5 @@
 # Logs
+config.json*
 logs
 *.log
 npm-debug.log*
@@ -129,5 +130,4 @@ dist
 .yarn/install-state.gz
 .pnp.*
 
-node_modules
 config.json
